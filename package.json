@@ -1,0 +1,15 @@
+{
+  "name": "withintelligenceautomation",
+  "version": "1.0.0",
+  "description": "hajaautomation",
+  "main": "index.js",
+  "scripts": {
+    "run:cypress": "npx cypress run --browser chrome",
+    "open:cypress": "npx cypress open"
+  },
+  "author": "haja",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.13.1"
+  }
+}

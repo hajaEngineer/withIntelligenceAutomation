@@ -1,0 +1,10 @@
+{
+    "validUsers": [
+      { "username": "qa-ui-automation-external@withintelligence.com", "password": "Q4tre5!j80" }
+    
+    ],
+    "invalidUsers": [
+      { "username": "qa-ui-automation-external@withintelligence.com", "password": "Q4tre5!j81" }
+      
+    ]
+  }
